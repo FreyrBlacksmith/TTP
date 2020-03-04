@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\ТП\Demo\bin\Debug\View.dll.config
+C:\Users\User\Desktop\ТП\Demo\bin\Debug\View.dll
+C:\Users\User\Desktop\ТП\Demo\bin\Debug\View.pdb
+C:\Users\User\Desktop\ТП\Demo\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\ТП\Demo\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\ТП\Demo\obj\Debug\View.Properties.Resources.resources
+C:\Users\User\Desktop\ТП\Demo\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ТП\Demo\obj\Debug\View.csproj.CopyComplete
+C:\Users\User\Desktop\ТП\Demo\obj\Debug\View.dll
+C:\Users\User\Desktop\ТП\Demo\obj\Debug\View.pdb
+C:\Users\User\Desktop\ТП\Demo\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\bin\Debug\View.dll.config
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\bin\Debug\View.dll
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\bin\Debug\View.pdb
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\bin\Debug\Ninject.dll
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\bin\Debug\Ninject.xml
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\obj\Debug\View.KD.resources
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\obj\Debug\View.Properties.Resources.resources
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\obj\Debug\View.csproj.CopyComplete
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\obj\Debug\View.dll
+C:\Users\Alexej Drosodv\source\repos\ТП\Demo\obj\Debug\View.pdb
+C:\Users\User\Desktop\ТП\Demo\obj\Debug\View.KD.resources

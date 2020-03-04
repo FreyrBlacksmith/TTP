@@ -1,0 +1,33 @@
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Model\bin\Debug\Model.dll
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Model\bin\Debug\Model.pdb
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Model\bin\Debug\Ninject.dll
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Model\bin\Debug\Ninject.xml
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Model\obj\Debug\Model.dll
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Model\obj\Debug\Model.pdb
+C:\Users\Alexej Drosodv\source\repos\nulllabor\Model\bin\Debug\View.dll
+C:\Users\Alexej Drosodv\source\repos\nulllabor\Model\bin\Debug\View.pdb
+C:\Users\Alexej Drosodv\source\repos\nulllabor\Model\bin\Debug\View.dll.config
+C:\Users\User\Desktop\ТП\Model\bin\Debug\Model.dll
+C:\Users\User\Desktop\ТП\Model\bin\Debug\Model.pdb
+C:\Users\User\Desktop\ТП\Model\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\ТП\Model\bin\Debug\View.dll
+C:\Users\User\Desktop\ТП\Model\bin\Debug\View.pdb
+C:\Users\User\Desktop\ТП\Model\bin\Debug\View.dll.config
+C:\Users\User\Desktop\ТП\Model\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\ТП\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ТП\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\User\Desktop\ТП\Model\obj\Debug\Model.dll
+C:\Users\User\Desktop\ТП\Model\obj\Debug\Model.pdb
+C:\Users\Alexej Drosodv\source\repos\ТП\Model\bin\Debug\Model.dll
+C:\Users\Alexej Drosodv\source\repos\ТП\Model\bin\Debug\Model.pdb
+C:\Users\Alexej Drosodv\source\repos\ТП\Model\bin\Debug\Ninject.dll
+C:\Users\Alexej Drosodv\source\repos\ТП\Model\bin\Debug\View.dll
+C:\Users\Alexej Drosodv\source\repos\ТП\Model\bin\Debug\View.pdb
+C:\Users\Alexej Drosodv\source\repos\ТП\Model\bin\Debug\View.dll.config
+C:\Users\Alexej Drosodv\source\repos\ТП\Model\bin\Debug\Ninject.xml
+C:\Users\Alexej Drosodv\source\repos\ТП\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Alexej Drosodv\source\repos\ТП\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Alexej Drosodv\source\repos\ТП\Model\obj\Debug\Model.dll
+C:\Users\Alexej Drosodv\source\repos\ТП\Model\obj\Debug\Model.pdb

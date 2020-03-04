@@ -1,0 +1,41 @@
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\bin\Debug\Presentation.exe
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\bin\Debug\Model.dll
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\bin\Debug\Ninject.dll
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\bin\Debug\View.dll
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\bin\Debug\View.pdb
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\bin\Debug\View.dll.config
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\bin\Debug\Model.pdb
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\bin\Debug\Ninject.xml
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\obj\Debug\Presentation.exe
+C:\Users\Alexej Drosodv\Source\Repos\nulllabor\Presentation\obj\Debug\Presentation.pdb
+C:\Users\User\Desktop\ТП\Presentation\bin\Debug\Presentation.exe
+C:\Users\User\Desktop\ТП\Presentation\bin\Debug\Presentation.pdb
+C:\Users\User\Desktop\ТП\Presentation\bin\Debug\Model.dll
+C:\Users\User\Desktop\ТП\Presentation\bin\Debug\Ninject.dll
+C:\Users\User\Desktop\ТП\Presentation\bin\Debug\View.dll
+C:\Users\User\Desktop\ТП\Presentation\bin\Debug\View.pdb
+C:\Users\User\Desktop\ТП\Presentation\bin\Debug\View.dll.config
+C:\Users\User\Desktop\ТП\Presentation\bin\Debug\Model.pdb
+C:\Users\User\Desktop\ТП\Presentation\bin\Debug\Ninject.xml
+C:\Users\User\Desktop\ТП\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ТП\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\User\Desktop\ТП\Presentation\obj\Debug\Presentation.exe
+C:\Users\User\Desktop\ТП\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\bin\Debug\Presentation.exe
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\bin\Debug\Model.dll
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\bin\Debug\Ninject.dll
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\bin\Debug\View.dll
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\bin\Debug\View.pdb
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\bin\Debug\View.dll.config
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\bin\Debug\Model.pdb
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\bin\Debug\Ninject.xml
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\obj\Debug\Presentation.exe
+C:\Users\Alexej Drosodv\source\repos\ТП\Presentation\obj\Debug\Presentation.pdb
+C:\Users\User\Desktop\ТП\Presentation\bin\Debug\Presentation.exe.config
